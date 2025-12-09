@@ -1,0 +1,32 @@
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\bin\Debug\net8.0\appsettings.json
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\bin\Debug\net8.0\שליחת נתונים ב-Request1.exe
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\bin\Debug\net8.0\שליחת נתונים ב-Request1.deps.json
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\bin\Debug\net8.0\שליחת נתונים ב-Request1.runtimeconfig.json
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\bin\Debug\net8.0\שליחת נתונים ב-Request1.dll
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\bin\Debug\net8.0\שליחת נתונים ב-Request1.pdb
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\obj\Debug\net8.0\שליחת נתונים ב-Request1.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\obj\Debug\net8.0\שליחת נתונים ב-Request1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\obj\Debug\net8.0\שליחת נתונים ב-Request1.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\obj\Debug\net8.0\שליחת נתונים ב-Request1.AssemblyInfo.cs
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\obj\Debug\net8.0\שליחת נתונים ב-Request1.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\obj\Debug\net8.0\שליחת נתונים ב-Request1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\obj\Debug\net8.0\שליחת נתונים ב-Request1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\obj\Debug\net8.0\staticwebassets\msbuild.שליחת נתונים ב-Request1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\obj\Debug\net8.0\staticwebassets\msbuild.build.שליחת נתונים ב-Request1.props
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שליחת נתונים ב-Request1.props
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שליחת נתונים ב-Request1.props
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\obj\Debug\net8.0\scopedcss\bundle\שליחת נתונים ב-Request1.styles.css
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\obj\Debug\net8.0\שליחת נת.45ECE253.Up2Date
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\obj\Debug\net8.0\שליחת נתונים ב-Request1.dll
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\obj\Debug\net8.0\refint\שליחת נתונים ב-Request1.dll
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\obj\Debug\net8.0\שליחת נתונים ב-Request1.pdb
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\obj\Debug\net8.0\שליחת נתונים ב-Request1.genruntimeconfig.cache
+C:\Users\user1\Desktop\דוטנט\שליחת נתונים ב-Request1\שליחת נתונים ב-Request1\obj\Debug\net8.0\ref\שליחת נתונים ב-Request1.dll

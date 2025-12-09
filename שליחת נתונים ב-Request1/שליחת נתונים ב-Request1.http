@@ -1,0 +1,6 @@
+@שליחת_נתונים_ב_Request1_HostAddress = http://localhost:5180
+
+GET {{שליחת_נתונים_ב_Request1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
